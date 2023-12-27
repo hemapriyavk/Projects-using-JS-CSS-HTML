@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(0,0,0,0.9);
+  }
+  
+.clock {
+    font-size: 5em;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    padding: 20px 24px;
+    border-radius: 10px;
+  }
+  
